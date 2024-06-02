@@ -10,7 +10,7 @@ npm run dev
 
 Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
 
-This project aims to create a simple image upload platform where users can upload and view their images. The frontend is developed using Next.js, Tailwind CSS, and ShadcnUI for UI components.
+This project aims to create a simple image upload platform where users can upload and view their images. The frontend is developed using Next.js,Socket io,Tailwind CSS, and ShadcnUI for UI components.
 
 ## Features
 

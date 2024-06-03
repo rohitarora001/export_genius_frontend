@@ -48,8 +48,9 @@ const Login = () => {
         setButtonLoading(false)
         router.push('/')
       }
+      console.log(response)
     } catch (error: any) {
-      setButtonLoading(true)
+      setButtonLoading(false)
       toast({
         variant: "destructive",
         title: error.response.data.error ?? "Something went wrong",
